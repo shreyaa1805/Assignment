@@ -1,0 +1,30 @@
+c_section {
+			display:block;
+			border: 1px solid silver;
+			margin:0.5em;
+			padding:0.5em;
+			background-color:red;
+			}
+title {
+	display:block;
+	font-weight:bolder;
+	text-align:center;
+	font-size:30px;
+	background-color: green;
+	color: white;
+
+	}
+make, year, color, model, engine, number_of_doors,transmission_type {
+								display:block;
+								font-size:20px;
+								text-align:left;
+								text-decoration: none ;
+								font-weight:bolder;
+								color:black;
+								}
+	make {
+	color:red;
+	text-decoration: none ;
+	font-weight:bolder;
+	font-size:20px;
+	}
